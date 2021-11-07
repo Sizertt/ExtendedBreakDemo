@@ -26,5 +26,8 @@ public class ExtendedBreakDemo {
             System.out.println("Завершен блок1");
 
         } // for
-    }
-}
+        System.out.println("Конец блока for");
+    
+    } // main(String[])
+} // ExtendedBreakDemo class
+
